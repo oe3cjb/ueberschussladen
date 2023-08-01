@@ -9,3 +9,6 @@ BENUTZUNG AUF EIGENE GEFAHR - OHNE JEGLICHER GEWÄHRLEISTUNG!
 Ab 1380W (6A bei 230V~ einpahsig) wird das Laden gestartet und wenn genügend Leistung vorhanden ist,
 in 1A - Schritten gesteigert. Sind 16A erreicht, wird auf dreiphasig umgeschalten und von dort wieder in 1A-Schritten erhöht.
 Bei abnehmender PV-Leistung geht es wieder in 1A Schritten retour, bis das Minimum erreicht wird und die Ladung stoppt.
+
+Gesteuert wird das ganze über ein (sehr einfaches) Webinterface auf http://localhost:5000 oder http://IP:5000
+Dort kann die Steuerung deaktiviert, auf Überschussladen oder auch auf Fixladung umgeschaltet werden.
