@@ -12,3 +12,8 @@ Bei abnehmender PV-Leistung geht es wieder in 1A Schritten retour, bis das Minim
 
 Gesteuert wird das ganze über ein (sehr einfaches) Webinterface auf http://localhost:5000 oder http://IP:5000
 Dort kann die Steuerung deaktiviert, auf Überschussladen oder auch auf Fixladung umgeschaltet werden.
+
+Voraussetzungen am Raspi:
+Python
+Flask
+???
