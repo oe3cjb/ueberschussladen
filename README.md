@@ -14,6 +14,6 @@ Gesteuert wird das ganze über ein (sehr einfaches) Webinterface auf http://loca
 Dort kann die Steuerung deaktiviert, auf Überschussladen oder auch auf Fixladung umgeschaltet werden.
 
 Voraussetzungen am Raspi:
-Python
-Flask
-???
+- Python
+- Flask
+- ???
