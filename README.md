@@ -17,3 +17,8 @@ Voraussetzungen am Raspi:
 - Python
 - Flask
 - ???
+
+Installation:
+- einfach im Home-Verzeichnis unter ueberschussladen einfach alles reinkopieren
+- check_run_state_ueberschuss.sh ins Home-Verzeichnis kopieren und z.B. minütlichen crontab-Eintrag erstellen
+
